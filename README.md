@@ -6,9 +6,9 @@
 
 ---
 
-### `</About Me>`
+### `About Me`
 
-[cite_start]I am a Computer Science and Engineering student with a strong foundation in problem-solving and a passion for technology[cite: 17, 8]. [cite_start]I enjoy turning complex ideas into reality and am always eager to collaborate on innovative projects[cite: 8].
+I am a Computer Science and Engineering student with a strong foundation in problem-solving and a passion for technology. I enjoy turning complex ideas into reality and am always eager to collaborate on innovative projects.
 
 ---
 
@@ -44,7 +44,7 @@
   <tr>
     <td align="center"><strong>Core Concepts</strong></td>
     <td>
-      [cite_start]<strong>Data Structures & Algorithms, Problem-Solving, API Development</strong> [cite: 11, 13]
+      ]<strong>Data Structures & Algorithms, Problem-Solving, API Development</strong> 
     </td>
   </tr>
 </table>
