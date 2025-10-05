@@ -7,10 +7,10 @@
 
 [cite_start]I'm a Computer Science student with a passion for building innovative solutions that solve real-world problems, especially at the intersection of AI and Web Development. [cite: 8, 17] [cite_start]I'm skilled in problem-solving and self-driven learning, always eager to contribute to impactful projects. [cite: 8]
 
-- 🔭 I’m currently exploring Deep Learning and Full-Stack Development.
-- [cite_start]🌱 I’m skilled in Data Structures & Algorithms for effective problem-solving. [cite: 11]
+-  I’m currently exploring Deep Learning and Full-Stack Development.
+-  I’m skilled in Data Structures & Algorithms for effective problem-solving. 
 - 👯 I’m looking to collaborate on open-source projects involving AI or React.js.
-- [cite_start]📫 How to reach me: **acharyaullas69@gmail.com** [cite: 5]
+- [cite_start]📫 How to reach me: **acharyaullas69@gmail.com** 
 
 ---
 
@@ -79,10 +79,10 @@
 
 ### 🏆 Achievements & Community Involvement
 
-- [cite_start]**SAP Hackfest Finalist** [cite: 28]
-- [cite_start]**Best Project in Technical Ideathon** [cite: 21]
-- [cite_start]Participated in a **National Level Hackathon** [cite: 22]
-- [cite_start]**Code Trooper Club Member:** Organized technical workshops and coding competitions, and mentored participants to enhance their programming and development skills. [cite: 30, 31]
+- **SAP Hackfest Finalist** 
+- **Best Project in Technical Ideathon** 
+-  Participated in a **National Level Hackathon**
+- **Code Trooper Club Member:** Organized technical workshops and coding competitions, and mentored participants to enhance their programming and development skills. 
 
 ---
 
