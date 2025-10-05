@@ -44,7 +44,12 @@ I am a Computer Science and Engineering student with a strong foundation in prob
   <tr>
     <td align="center"><strong>Core Concepts</strong></td>
     <td>
-      ]<strong>Data Structures & Algorithms, Problem-Solving, API Development</strong> 
+      <strong>Data Structures & Algorithms, Problem-Solving, API Development</strong> 
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://raw.githubusercontent.com/FANCY-GENTS/FANCY-GENTS/main/assets/line.gif" width="100%">
     </td>
   </tr>
 </table>
