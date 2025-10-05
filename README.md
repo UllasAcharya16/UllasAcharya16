@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tucjI3bDZ2a2FtbHFocm5iZmNsbXRocXJqMWd5aHZqZ25kdWNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="50px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2tucjI3bDZ2a2FtbHFocm5iZmNsbXRocXJqMWd5aHZqZ25kdWNvdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100px" hight="100px" />
   <h1>Hi there, I'm Ullas Acharya 👋</h1>
   <h3>Aspiring Software Engineer | Passionate Coder | Lifelong Learner</h3>
 </div>
