@@ -7,7 +7,7 @@
 
 I'm a Computer Science student focused on building impactful applications. I enjoy solving complex problems and am always open to collaborating on innovative open-source projects.
 
-- 🔭 I’m currently building with **Next.js**, **Python**, and **Deep Learning**.
+- .
 - 🌱 Skilled in **Data Structures & Algorithms**.
 - 📫 You can reach me at: **acharyaullas69@gmail.com**
 
@@ -24,16 +24,6 @@ I'm a Computer Science student focused on building impactful applications. I enj
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-- **AI-Medical Voice Agent**: A real-time AI assistant for voice consultations.
-  - **Stack**: Next.js, Drizzle ORM, PostgreSQL.
-
-- **Shoplifting Detection Model**: A surveillance system using computer vision to detect suspicious behavior.
-  - **Stack**: Python, OpenCV, TensorFlow/Keras.
 
 ---
 
